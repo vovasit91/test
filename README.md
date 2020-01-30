@@ -1,4 +1,4 @@
-# israel
+# Test project
 
 ## Project setup
 ```
